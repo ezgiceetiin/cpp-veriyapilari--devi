@@ -1,2 +1,2 @@
-# cpp-veriyapilari--devi
+# cpp-veriyapilari-odevi
 Basit C++ algoritma ödevi
